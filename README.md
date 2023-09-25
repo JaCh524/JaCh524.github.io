@@ -1,6 +1,6 @@
 # JaCh524.github.io
 
-#James Child
+James Child
 
 jbchild@my.waketech.edu
 
